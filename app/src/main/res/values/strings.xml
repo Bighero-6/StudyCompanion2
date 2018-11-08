@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudyCompanion</string>
+    <string name="name">Name</string>
+    <string name="mates">Mates</string>
+    <string name="discussion">Discussion</string>
+    <string name="broadcast">BroadCast</string>
+    <string name="action_settings">BroadCast</string>
+    <string name="type_here">Type here...</string>
+</resources>

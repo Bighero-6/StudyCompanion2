@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297879786803",
+    "firebase_url": "https://javaproject-daa3b.firebaseio.com",
+    "project_id": "javaproject-daa3b",
+    "storage_bucket": "javaproject-daa3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297879786803:android:3e192a000eac6b30",
+        "android_client_info": {
+          "package_name": "com.example.admin.studycompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297879786803-38tjpa52f4rs7iue60dib36m826surhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Md5EBCHIjBHnulGScfMtV_fAN7TO7vM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
